@@ -30,12 +30,15 @@ body {
 .navbar-wrapper .navbar .container {
   width: auto;
 }*/
+header{
+  color: red;
+}
 
 .logo {
   font-family: "Cursive";
   font-size: 40px;
   font-style: italic;
-  color: black;
+  color: red;
   background: white;
 }
 

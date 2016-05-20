@@ -11,6 +11,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "assets/index.html",
+			"settings":
+			{
+				"buffer_size": 10352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/styles/main.css",
+			"settings":
+			{
+				"buffer_size": 2871,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -44,7 +60,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/johns/Desktop/MyWebSites"
+		"/C/Users/johns/Desktop/MyWebSites",
+		"/C/Users/johns/Desktop/MyWebSites/assets"
 	],
 	"file_history":
 	[
@@ -96,8 +113,69 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "assets/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1448,
+								1448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/styles/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								654,
+								654
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
