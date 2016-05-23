@@ -12,18 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "assets/index.html",
-			"settings":
-			{
-				"buffer_size": 10352,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "assets/styles/main.css",
 			"settings":
 			{
-				"buffer_size": 2871,
+				"buffer_size": 2893,
 				"line_ending": "Windows"
 			}
 		}
@@ -60,11 +52,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/johns/Desktop/MyWebSites",
-		"/C/Users/johns/Desktop/MyWebSites/assets"
+		"/C/Users/Kia/Documents/MyWebSites",
+		"/C/Users/Kia/Documents/MyWebSites/assets",
+		"/C/Users/Kia/Documents/MyWebSites/assets/styles"
 	],
 	"file_history":
 	[
+		"/C/Users/Kia/Documents/MyWebSites/assets/index.html",
 		"/C/Users/johns/Desktop/MyWebsite/assets/css/2-base/_base.sass",
 		"/C/Users/johns/Desktop/MyWebsite/assets/css/2-base/_vars.sass",
 		"/C/Users/johns/Desktop/MyWebsite/index.html",
@@ -118,49 +112,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "assets/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10352,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1448,
-								1448
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 90.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "assets/styles/main.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2871,
+						"buffer_size": 2893,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								654,
-								654
+								0,
+								0
 							]
 						],
 						"settings":
@@ -173,7 +137,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
