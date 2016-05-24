@@ -2,7 +2,6 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 body {
-  padding-bottom: 40px;
   color: #5a5a5a;
 }
 
@@ -46,6 +45,7 @@ body {
 .carousel {
   height: 500px;
   margin-bottom: 60px;
+  margin-top: -20px;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
